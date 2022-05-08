@@ -14,7 +14,7 @@
   </a>
 </div>
 
-<a href="https://www.google.com/" target="_blank">Google</a>
+<a href="www.linkedin.com/in/nibin-kurian" target="_blank">Google</a>
 
 
 <div align="center">
