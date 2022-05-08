@@ -3,7 +3,7 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="www.linkedin.com/in/nibin-kurian">
+  <a href="https://linkedin.com/in/nibin-kurian/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">
@@ -14,7 +14,6 @@
   </a>
 </div>
 
-<a href="https://linkedin.com/in/nibin-kurian/" target="_blank">Google</a>
 
 
 <div align="center">
